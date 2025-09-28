@@ -21,24 +21,34 @@ I love creating, learning, and sharing my work with the world.
 
 ## 🌐 Connect with Me
 <div>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-demirbas)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senadmrbsx@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senademirbas)
-  [![ArtStation](https://img.shields.io/badge/ArtStation-000000?logo=artstation&logoColor=white)](https://www.artstation.com/redhand)
+  <a href="https://www.linkedin.com/in/sena-demirbas">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:senadmrbsx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/senademirbas">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.artstation.com/redhand">
+    <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
+  </a>
 </div>
 
 ---
 
 <!-- Snake Animation -->
 <div align="center">
-  ![snake gif](https://github.com/senademirbas/senademirbas/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/senademirbas/senademirbas/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="300"/>
 </div>
 
 ---
 
 <!-- Visit Counter -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=senademirbas&icon=10&color=6)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=senademirbas&icon=10&color=6" alt="Visit Counter"/>
+  </a>
 </div>
 
 </div>
