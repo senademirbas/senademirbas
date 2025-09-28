@@ -1,12 +1,12 @@
 name: Generate GitHub Contributions Snake
 on:
   schedule:
-    # her 12 saatte bir (isteğe göre değiştir)
+    # her 12 saatte bir çalışır
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # action'ın üretilen dosyayı repoya yazabilmesi için
+  contents: write
 
 jobs:
   build:
@@ -18,8 +18,7 @@ jobs:
       - name: Generate snake (SVG + dark mode SVG)
         uses: Platane/snk@v3
         with:
-          # read contributions for the owner of the repo; veya doğrudan kullanıcı ismi yaz
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: senademirbas
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
