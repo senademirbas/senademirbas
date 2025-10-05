@@ -21,13 +21,21 @@
     
   ![snake gif](https://github.com/senademirbas/senademirbas/blob/output/github-snake-dark.svg)
 </div>
-
 <div align="center">
 
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/sena_demirbas?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/sena_demirbas/)
+  <h2>🧠 LeetCode İstatistiklerim</h2>
 
+  <a href="https://leetcode.com/sena_demirbas/">
+    <img 
+      src="https://leetcard.jacoblin.cool/sena_demirbas?theme=dark&font=Nunito&ext=heatmap" 
+      width="340" 
+      alt="LeetCode Stats" 
+      style="border-radius: 12px; box-shadow: 0 0 20px rgba(255,255,255,0.05);" />
+  </a>
 
 </div>
+
+
 
 
 
