@@ -10,7 +10,7 @@
 <!-- Social connections -->
 <div align="center">
 
-## 🌐 Connect with Me 🍬
+##  Connect with Me :3
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-demirbas) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senadmrbsx@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senademirbas) 
